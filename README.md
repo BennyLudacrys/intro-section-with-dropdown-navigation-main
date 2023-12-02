@@ -58,4 +58,4 @@ Este projeto é uma implementação de uma seção introdutória com um menu sus
 
 ## Contato
 
-Para dúvidas ou feedback, entre em contato com [Seu Nome](mailto:bennedito01@gmail.com).
+Para dúvidas ou feedback, entre em contato com [Benedito Muianga](mailto:bennedito01@gmail.com).
